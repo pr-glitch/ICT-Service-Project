@@ -1,7 +1,7 @@
 # ICT-Service-Project
 <div align="center">
 
-<img src=""/>
+<img src="https://github.com/pr-glitch/ICT-Service-Project/blob/main/Assests/1.png/>
 
 </div>
       
@@ -13,7 +13,7 @@
 
 <div align="center">
 
-<img src="" alt="drawing"/>
+<img src="https://github.com/pr-glitch/ICT-Service-Project/blob/main/Assests/2.png alt="drawing"/>
 
 </div>
 
